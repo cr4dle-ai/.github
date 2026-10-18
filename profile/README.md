@@ -7,11 +7,6 @@
 
 <h1 align="center">Cr4dle</h1>
 
-<p align="center"><b>Physical intelligence, learned from humans.</b></p>
+<p align="center">Physical intelligence, learned from humans.</p>
 
-Cr4dle is a non-commercial research programme. It studies how people look, grip and act during physical work,
-from consented recordings, as data for robot learning.
-
-- **Website:** [cr4dle.xyz](https://cr4dle.xyz)
-- **Status:** research. Nothing is offered for sale.
-- **Repositories:** the working repositories are private.
+<p align="center"><a href="https://cr4dle.xyz">cr4dle.xyz</a></p>
